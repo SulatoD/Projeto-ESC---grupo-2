@@ -6,8 +6,8 @@
      print("=== Cadastro básico ===\n")
      nome = ler_nome()
      data_nascimento = ler_data_nascimento()
-#     idade = ler_idade()
-#     exibir_dados(nome, data_nascimento, idade)
+     idade = ler_idade()
+     exibir_dados(nome, data_nascimento, idade)
 
 
 # if __name__ == "__main__":
