@@ -10,5 +10,5 @@
      exibir_dados(nome, data_nascimento, idade)
 
 
-# if __name__ == "__main__":
-#     main()
+ if __name__ == "__main__":
+     main()
